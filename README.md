@@ -16,6 +16,7 @@ pdf-chat-rag/
 │   └── interface/
 |   |   └── templates
 |   |   |   └── index.html
+|   |   └── flask_app.py
 ├── README.md
 ├── requirements.txt
 ```
