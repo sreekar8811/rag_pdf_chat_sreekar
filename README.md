@@ -35,6 +35,6 @@ pip install -r requirements.txt
 ```
 
 3. Add your OpenAI API Key:
-- Create a `.env` file with `OPENAI_API_KEY="open_api_secert_key_place_here_from_https://platform.openai.com/settings/organization/api-keys"`.
+- Create a `.env` file with `OPENAI_API_KEY="open_api_secert_key_from_https://platform.openai.com/settings/organization/api-keys"`.
 
 4. Run the pipeline script for example usage or integrate it with the app.
