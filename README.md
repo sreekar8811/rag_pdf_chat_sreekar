@@ -4,7 +4,7 @@ The goal of this project is to implement a Retrieval-Augmented Generation (RAG) 
 
 ## Project Structure
 ```
-pdf-chat-rag/
+rag_pdf_chat_sreekar/
 ├── data/
 │   └── sample_pdfs/
 │       └── sethafal.pdf
